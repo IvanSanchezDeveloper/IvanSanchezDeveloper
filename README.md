@@ -34,6 +34,7 @@ Currently working with **PHP** and **Symfony**, optimizing large-scale database 
 A second-hand shopping web application.
 
 **Tech Stack:**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
