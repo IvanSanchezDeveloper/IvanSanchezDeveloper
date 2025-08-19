@@ -48,6 +48,13 @@ A second-hand shopping web application.
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
+### [LeetCode Exercises](https://github.com/IvanSanchezDeveloper/LeetCodeExercises)
+A collection of solved coding exercises in multiple programming languages to practice problem-solving skills and algorithms.
+
+**Languages:**
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+
 ---
 
 ⭐️ *Thanks for visiting my profile!*
